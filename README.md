@@ -1,7 +1,7 @@
 ### Filipe Augusto 
-Atualmente estudante de estatística adentrando na área de ciencia de dados, realizando pesquisas e fazendo análises estatísticas.
+Graduado em estatística adentrando na área de ciencia de dados, realizando pesquisas e fazendo análises estatísticas.
 
-- 👨🏻‍💻 **Estudante** de Estatística na Universidade Estadual da Paraíba
+- 👨🏻‍💻 **Graduado** em Estatística na Universidade Estadual da Paraíba
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
